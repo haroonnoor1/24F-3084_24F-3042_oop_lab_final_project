@@ -1,5 +1,0 @@
-Population: 100
-Soldiers: 80
-Treasury: 1000
-Loans: 0
-Food: 100
